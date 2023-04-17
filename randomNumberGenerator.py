@@ -12,4 +12,4 @@ random_number = random.randint(0, userMaxNumber)
 
 #Displaying the random number
 
-print("Generate nuber: " + random_number)
+print("Generate number: " + random_number)
