@@ -4,7 +4,7 @@ The user will enter the maximum number that can be generated,
 and the program will generate a random number between 0 and
 the maximum number that the user entered.
 -------
-Feel free to contact @tudorntc if you notice any problems or if you have questions.
+Feel free to contact @tudorntc (tudorntc08@gmail.com) if you notice any problems or if you have any questions.
 -----
 Author
 ------
